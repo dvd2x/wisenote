@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/wisenote/static/css/main.2cce8147.chunk.css",
-    "main.js": "/wisenote/static/js/main.20d34376.chunk.js",
-    "main.js.map": "/wisenote/static/js/main.20d34376.chunk.js.map",
+    "main.css": "/wisenote/static/css/main.82e76cf0.chunk.css",
+    "main.js": "/wisenote/static/js/main.71af902b.chunk.js",
+    "main.js.map": "/wisenote/static/js/main.71af902b.chunk.js.map",
     "runtime~main.js": "/wisenote/static/js/runtime~main.40be7062.js",
     "runtime~main.js.map": "/wisenote/static/js/runtime~main.40be7062.js.map",
-    "static/js/2.520d1195.chunk.js": "/wisenote/static/js/2.520d1195.chunk.js",
-    "static/js/2.520d1195.chunk.js.map": "/wisenote/static/js/2.520d1195.chunk.js.map",
+    "static/js/2.41ea2973.chunk.js": "/wisenote/static/js/2.41ea2973.chunk.js",
+    "static/js/2.41ea2973.chunk.js.map": "/wisenote/static/js/2.41ea2973.chunk.js.map",
     "index.html": "/wisenote/index.html",
-    "precache-manifest.02c61bbda25a398396988362faaf16d9.js": "/wisenote/precache-manifest.02c61bbda25a398396988362faaf16d9.js",
+    "precache-manifest.d493c30753a27af81bbe6cc4fda5d13c.js": "/wisenote/precache-manifest.d493c30753a27af81bbe6cc4fda5d13c.js",
     "service-worker.js": "/wisenote/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/wisenote/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/wisenote/static/media/logo.5d5d9eef.svg"
+    "static/css/main.82e76cf0.chunk.css.map": "/wisenote/static/css/main.82e76cf0.chunk.css.map"
   }
 }
